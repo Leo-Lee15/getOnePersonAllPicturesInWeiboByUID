@@ -1,2 +1,1 @@
-# getOnePersonAllPicturesInWeiboByUID
-按用户ID爬取该用户所有微薄中的图片
+按用户ID爬取该用户所有微博中的图片
